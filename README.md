@@ -1,7 +1,7 @@
 sgns
 ==============================
 
-**S**imple **G**mail **N**ewsletter **S**ender is a Python command-line tool to send newsletter(or emails) using your Gmail account
+**S**imple **G**mail **N**ewsletter **S**ender is a Python command-line tool to send newsletter emails using your Gmail account
 
 
 # Usage
