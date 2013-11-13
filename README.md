@@ -20,3 +20,7 @@ Using usuarios.json and newsletter.html we provide on the example folder, type:
   $ python run.py --email your_gmail_account --pwd your_gmail_password 
   --subject 'Simple Newsleter Testing' --json 'example/usuarios.json' --html 'example/newsletter.html'
 ```
+
+# TODO
+* Add arguments & functionalities to receive other data formats (--xml, --csv, --xls)
+* Add argument & funcionality to get the html from an url (--html_uri)
