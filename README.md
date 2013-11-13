@@ -1,2 +1,2 @@
-SimpleNewsletterSender
-======================
+Simple GMail Newsletter Sender
+==============================
